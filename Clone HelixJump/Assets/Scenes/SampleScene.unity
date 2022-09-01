@@ -138,6 +138,10 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1030011385}
+    - target: {fileID: 3653796446506049821, guid: 47d4bb91799ba29408bc2c7f3f70a384, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0db9081ab7a4ce046ba2c76e8853763c, type: 2}
     - target: {fileID: 5368318971093026168, guid: 47d4bb91799ba29408bc2c7f3f70a384, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -667,7 +671,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 53435cd6e4cf44c43a04fb86aaccc5a9, type: 2}
+  - {fileID: 2100000, guid: 1e1e80c6c3ac11d4fa41992183a4417e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -739,10 +743,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f53d34567745ad4cb5fea23e267befe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BounceSpeed: 12
+  BounceSpeed: 15
   Rigidbody: {fileID: 1030011384}
   CurrentPlatform: {fileID: 0}
   Game: {fileID: 1987327809}
+  PlatformDestoed: {fileID: 2100000, guid: 39631100b7ec81444a55a6f777d04339, type: 2}
 --- !u!82 &1030011386
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1302,7 +1307,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 4d5ae18fd27a78f49aa89ef9fc59b220, type: 2}
+  - {fileID: 2100000, guid: 5842de990599a40458ae8231621af61b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

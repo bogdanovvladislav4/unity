@@ -58,7 +58,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: eef44d08294155d41a11244830156477, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: d8f9a15837fa0704dadcafd3bd8cda15, type: 2}
+      objectReference: {fileID: 2100000, guid: 96388d7d202660e41977f97d5f3eb7df, type: 2}
     - target: {fileID: 919132149155446097, guid: eef44d08294155d41a11244830156477, type: 3}
       propertyPath: m_Name
       value: sector
@@ -97,5 +97,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   IsGood: 1
-  GoodMaterial: {fileID: 2100000, guid: d8f9a15837fa0704dadcafd3bd8cda15, type: 2}
-  BadMaterial: {fileID: 2100000, guid: 3dc1aad2f98acde4f9525103b39ec16a, type: 2}
+  GoodMaterial: {fileID: 2100000, guid: 96388d7d202660e41977f97d5f3eb7df, type: 2}
+  BadMaterial: {fileID: 2100000, guid: 016331d7f8d8cff4ea7ae796214f8480, type: 2}
