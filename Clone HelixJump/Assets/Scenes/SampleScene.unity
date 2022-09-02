@@ -748,6 +748,8 @@ MonoBehaviour:
   CurrentPlatform: {fileID: 0}
   Game: {fileID: 1987327809}
   PlatformDestoed: {fileID: 2100000, guid: 39631100b7ec81444a55a6f777d04339, type: 2}
+  PlayerDestroed: {fileID: 2100000, guid: 652d10bba869c23459c1d1542d17f764, type: 2}
+  PlayerDestroedSounds: {fileID: 8300000, guid: 02ebc5dabe8e4ae45b1034a08e923a92, type: 3}
 --- !u!82 &1030011386
 AudioSource:
   m_ObjectHideFlags: 0
