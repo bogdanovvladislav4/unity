@@ -221,8 +221,8 @@ MonoBehaviour:
     y: 0
     width: 298
     height: 588
-  m_MinSize: {x: 102, y: 121}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -274,8 +274,8 @@ MonoBehaviour:
     y: 0
     width: 597
     height: 947
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -941,9 +941,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 1.1420002, z: -4.620001}
+    m_Target: {x: -0.16270131, y: 1.1302857, z: -4.6385336}
     speed: 2
-    m_Value: {x: 0, y: 1.1420002, z: -4.620001}
+    m_Value: {x: -0.16270131, y: 1.1302857, z: -4.6385336}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -990,13 +990,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.11554956, y: -0.0053663366, z: 0.0006244855, w: -0.9932903}
+    m_Target: {x: -0.18654168, y: 0.04183645, z: -0.0079479, w: -0.9815411}
     speed: 2
-    m_Value: {x: -0.11554955, y: -0.0053663366, z: 0.0006244855, w: -0.9932903}
+    m_Value: {x: -0.1865385, y: 0.04183574, z: -0.007947765, w: -0.98152435}
   m_Size:
-    m_Target: 9.54053
+    m_Target: 13.2877035
     speed: 2
-    m_Value: 9.54053
+    m_Value: 13.2877035
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1740,22 +1740,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Fantasy SFX for Particle Distort Texture effect library
+    - Assets/Scripts
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Fantasy SFX for Particle Distort Texture effect library
+  - Assets/Scripts
   m_LastFoldersGridSize: 16
   m_LastProjectPath: F:\Programs\GitHub\unity\Clone HelixJump
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 3e500000
-    m_LastClickedID: 20542
-    m_ExpandedIDs: 00000000125000001450000000ca9a3b
+    m_SelectedIDs: 92500000
+    m_LastClickedID: 20626
+    m_ExpandedIDs: 000000005a5000005c5000005e50000060500000625000006450000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1783,7 +1783,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001250000014500000
+    m_ExpandedIDs: 000000005a5000005c5000005e500000605000006250000064500000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1810,22 +1810,22 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000e66f00006a68000000000000
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: c6230000e66f00006a68000000000000fc510000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: msfx_chrono_latency_wheel
-      m_OriginalName: msfx_chrono_latency_wheel
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 20596
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_CreateAssetUtility:
@@ -1835,7 +1835,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 183}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 16
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
@@ -1931,7 +1931,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: a8ebffff34fbffffce4c0000
+      m_ExpandedIDs: 70fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
